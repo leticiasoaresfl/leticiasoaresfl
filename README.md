@@ -3,7 +3,6 @@
 Sou uma aventureira digital determinada, navegando no universo dos games e dos bancos de dados com a curiosidade de um gato e a determinação de um herói em busca de XP. Flertando com bytes e pixels, estou pronta para desvendar os mistérios da tecnologia enquanto embarco nesta emocionante jornada! 🎮💾
 
 # 📚 Estudos
-- Atualmente estou aprendendo Santander Bootcamp 2024 - Backend com Java [DIO](https://web.dio.me/home)
 - Estudante de Análise e Desenvolvimento de Sistemas [Católica de Santa Catarina](https://www.catolicasc.org.br/)
 - Voluntária na CodeCon de Joinville/SC [Codecon](https://codecon.dev/)
 
