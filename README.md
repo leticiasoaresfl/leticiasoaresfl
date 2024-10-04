@@ -17,8 +17,10 @@ Estou determinada a me tornar uma desenvolvedora de software altamente competent
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=0E76A8)](https://discord.com/channels/@leticiamariasoaresflugel)
 
 
-# 💻 Tech Stack:
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leticiasoaresfl&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+# 💻 Tech Stack
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasoaresfl&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 # ⭐ Card Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiasoaresfl&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
