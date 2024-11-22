@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre mim 
 
-Sou uma aventureira digital determinada, navegando no universo dos games e dos bancos de dados com a curiosidade de um gato e a determinação de um herói em busca de XP. Flertando com bytes e pixels, estou pronta para desvendar os mistérios da tecnologia enquanto embarco nesta emocionante jornada! 🎮💾
+Sou uma aventureira digital determinada, navegando no universo dos games e desing com a curiosidade de um gato e a determinação de um herói em busca de XP. Flertando com bytes e pixels, estou pronta para desvendar os mistérios da tecnologia enquanto embarco nesta emocionante jornada! 🎮💾
 
 # 📚 Estudos
 - Estudante de Análise e Desenvolvimento de Sistemas [Católica de Santa Catarina](https://www.catolicasc.org.br/)
